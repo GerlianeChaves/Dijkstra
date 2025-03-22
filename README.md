@@ -1,4 +1,7 @@
-<h1 style="text-align: center; color: #f8f9fd;"> Algoritmo de Navegação em Labirinto</h1>
+<div style="display: flex; justify-content: center;">
+    <h1 style="color: #f8f9fd;">Algoritmo de Navegação em Labirinto</h1>
+</div>
+
 
 <p style="font-size: 18px; text-align: center;">
     Este projeto implementa um algoritmo de navegação para um <strong>labirinto</strong>, utilizando <strong>grafos</strong> e o <strong>algoritmo de Dijkstra</strong> para encontrar o caminho mais curto.
@@ -32,19 +35,19 @@ pip install pyamaze matplotlib networkx
 
 #TODO atualizar repositório no link
 ```bash
-git clone https://github.com/seu-repositorio.git
+git clone https://github.com/GerlianeChaves/Dijkstra.git
 ```
 
 <li>Entre no diretório do projeto:</li>
 
 ```bash
-cd nome-do-projeto
+cd Dijkstra
 ```
 
 <li>Execute o script:</li>
 
 ```bash
-python main.py
+python Dijkstra.py
 ```
 </ol>
 
